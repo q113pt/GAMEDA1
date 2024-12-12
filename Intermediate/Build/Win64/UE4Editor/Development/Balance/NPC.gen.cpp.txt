@@ -1,0 +1,5 @@
+C:\Users\quan1\Documents\Unreal Projects\Balance\Intermediate\Build\Win64\UE4Editor\Development\Balance\Definitions.Balance.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\quan1\Documents\Unreal Projects\Balance\Source\Balance/NPC.h
+C:\Users\quan1\Documents\Unreal Projects\Balance\Intermediate\Build\Win64\UE4Editor\Inc\Balance\NPC.generated.h

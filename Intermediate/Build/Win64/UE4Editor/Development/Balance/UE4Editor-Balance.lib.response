@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Balance.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\quan1\Documents\Unreal Projects\Balance\Intermediate\Build\Win64\BalanceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\quan1\Documents\Unreal Projects\Balance\Intermediate\Build\Win64\UE4Editor\Development\Balance\Balance.cpp.obj"
+"C:\Users\quan1\Documents\Unreal Projects\Balance\Intermediate\Build\Win64\UE4Editor\Development\Balance\NPC.cpp.obj"
+"C:\Users\quan1\Documents\Unreal Projects\Balance\Intermediate\Build\Win64\UE4Editor\Development\Balance\Balance.init.gen.cpp.obj"
+"C:\Users\quan1\Documents\Unreal Projects\Balance\Intermediate\Build\Win64\UE4Editor\Development\Balance\NPC.gen.cpp.obj"
+"C:\Users\quan1\Documents\Unreal Projects\Balance\Intermediate\Build\Win64\UE4Editor\Development\Balance\Default.rc2.res"
+/OUT:"C:\Users\quan1\Documents\Unreal Projects\Balance\Intermediate\Build\Win64\UE4Editor\Development\Balance\UE4Editor-Balance.lib"

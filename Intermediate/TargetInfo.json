@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Balance",
+			"Path": "C:\\Users\\quan1\\Documents\\Unreal Projects\\Balance\\Source\\Balance.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BalanceEditor",
+			"Path": "C:\\Users\\quan1\\Documents\\Unreal Projects\\Balance\\Source\\BalanceEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
