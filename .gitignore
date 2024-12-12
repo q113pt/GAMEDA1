@@ -1,0 +1,28 @@
+# Unreal Engine-specific folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore Unreal Engine-specific build files
+*.log
+*.obj
+*.pdb
+*.exe
+*.dll
+*.bak
+
+# Ignore other build files
+*.pak
+*.uasset
+*.umap
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln*
+*.vcxproj
+*.xcuserstate
