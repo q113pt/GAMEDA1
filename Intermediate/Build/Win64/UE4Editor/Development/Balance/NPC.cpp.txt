@@ -1,3 +1,0 @@
-C:\Users\quan1\Documents\Unreal Projects\Balance\Intermediate\Build\Win64\UE4Editor\Development\Balance\Definitions.Balance.h
-C:\Users\quan1\Documents\Unreal Projects\Balance\Source\Balance\NPC.h
-C:\Users\quan1\Documents\Unreal Projects\Balance\Intermediate\Build\Win64\UE4Editor\Inc\Balance\NPC.generated.h
